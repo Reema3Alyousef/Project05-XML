@@ -14,5 +14,6 @@ This application allows users to create and read files in XML format. Clean code
 ## Tools & Reqirements:
 - C#
 - Threading
+- Asynchronization
 - Clean Code
 - XML
